@@ -6,7 +6,12 @@ Using Vim to edit.
 To get more help, see Vim command.
 
 
+<<<<<<< HEAD
 
+=======
+*.[oa]
+*~
+>>>>>>> b36968bd6617f41d81079b9ad8963225119ddee6
 # 此为注释 – 将被 Git 忽略
 *.a # 忽略所有 .a 结尾的文件
 !lib.a # 但 lib.a 除外
