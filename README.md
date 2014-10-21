@@ -8,6 +8,9 @@ To get more help, see Vim command.
 
 *.[oa]
 *~
+<<<<<<< HEAD
+>>>>>>> b36968bd6617f41d81079b9ad8963225119ddee6
+=======
 >>>>>>> b36968bd6617f41d81079b9ad8963225119ddee6
 # 此为注释 – 将被 Git 忽略
 *.a # 忽略所有 .a 结尾的文件
