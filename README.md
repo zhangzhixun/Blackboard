@@ -6,8 +6,7 @@ Using Vim to edit.
 To get more help, see Vim command.
 
 
-*.[oa]
-*~
+
 # 此为注释 – 将被 Git 忽略
 *.a # 忽略所有 .a 结尾的文件
 !lib.a # 但 lib.a 除外
